@@ -10,7 +10,7 @@ I will use pandas to update a csv file with New York Citibike data. The I will u
 * The number of bike trips for each type of user and gender for each day of the week.
 
 
-[link to dashboard](https://public.tableau.com/app/profile/jovan.simmons/viz/NYCTripDataChallenge/NYCTripDataChallenge "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/paul.lymburner5062/viz/NYCTripDataChallenge_16696081895920/NYCTripDataChallenge#1 "link to dashboard")
 
 ## Results:
 In this visualization, we see  the length of time that bikes are checked out for all riders.
